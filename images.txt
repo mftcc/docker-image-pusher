@@ -1,1 +1,1 @@
-fuzhengwei/chatgpt-web-app:5.1
+zookeeper:3.9.0
